@@ -12,7 +12,7 @@
 
 ## Post Install Configuration Objectives:
 
-1. (Agent)[https://docs.osticket.com/en/latest/Agent%20Panel.html] vs. [Admin](https://docs.osticket.com/en/latest/Admin%20Panel.html) panel adknowledgement
+1. [Agent](https://docs.osticket.com/en/latest/Agent%20Panel.html) vs. [Admin](https://docs.osticket.com/en/latest/Admin%20Panel.html) panel adknowledgement
 2. [Roles](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html)
 3. [Departments](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html)
 4. [Teams](https://docs.osticket.com/en/latest/Admin/Agents/Teams.html)
