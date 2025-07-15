@@ -82,7 +82,7 @@ These distinctions help ensure that the system is both well-managed and responsi
 
 <img width="700" height="700" alt="Housekeeping" src="https://github.com/user-attachments/assets/0e60c5e4-763b-4b78-9dca-122c57d570fd" />
 
-- We additionally need to delete the preset maintenance department. We will use and create our own to work in for the sake of this lab and deleteing this will allow us to do so without any hitches.
+- We additionally need to delete the preset maintenance department. We will use and create our own departments to work in for the sake of this lab and deleteing this preset will allow us to do so without any hitches.
   - To delete, check the box next to maintenance, click on the button labeled "More", then delete.
 
 
