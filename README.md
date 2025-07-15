@@ -22,7 +22,7 @@
 
 ### Prerequisites: 
 
--  [osTicket Prereqisites](https://github.com/EddieJIV/osticket-prereqs)
+-  [osTicket Prereqisites lab](https://github.com/EddieJIV/osticket-prereqs) 
 
 ## 1. Acknowledge Agent vs. Admin Panel 
 
@@ -143,7 +143,7 @@ These distinctions help ensure that the system is both well-managed and responsi
   - Click "Set".
 - Before clicking create we are going to move to the Access tab.
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
+<img src="https://github.com/user-attachments/assets/e34e3da2-c790-472d-973a-582da4de6722" height="700" width="700" alt="Placeholder Image"/>
 
 - For the sake of this lab we are going to make him a part of the Support Department and set his role as "View Only"
 - Leave Permission and Teams alone, and click "Create".
@@ -161,15 +161,50 @@ These distinctions help ensure that the system is both well-managed and responsi
 
 - Add Karen to the user database.
   - Again, enter or make up a fake email address for our new client.
-- Click, "Add User". 
+- Click, "Add User".
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
+## 6. SLA Configuration
+*To define and manage service level agreements for ticket response and resolution times.*
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
+<img src="https://github.com/user-attachments/assets/52e6ccca-3ce9-4986-b78e-d1dbdfde031d" height="700" width="700" alt="SLA NAV"/>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
+- First, navigate back to the Admin Panel.
+- Then, under the "Manage" tab, Click on "SLA".
+- We are going to configure 3 SLA's.
+  - Sev-A, Sev-B, and Sev-C
+- Each severity level (Sev-A, Sev-B, Sev-C) has distinct grace periods and schedules, which are crucial for prioritizing support responses based on the urgency of the issues reported.
+- Click, "Add New SLA Plan" to navigate to the next step.
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
+<img src="https://github.com/user-attachments/assets/e1a99f68-34dc-4a17-9c40-d49f626764eb" height="700" width="700" alt="Sev-A"/>
+
+- For the name, as mentioned, we are going to put Sev-A.
+- With a Grace period of 1 hour
+- And a Schedule of 24/7.
+- Click, "Add Plan".
+  
+Sev-A represents the highest priority level, typically reserved for critical issues that severely impact business operations or cause significant disruption.
+
+- Click, "Add New SLA Plan" to navigate to the next step.
+
+<img src="https://github.com/user-attachments/assets/e700863a-3af7-4fdc-99e1-646927aedd8d" height="700" width="700" alt="Sev-B"/>
+
+- Now, we are going to add Sev-B
+- Give Sev-B a grace period of 4 hours.
+- And a Schedule of 24/7.
+- Click, "Add Plan".
+
+Sev-B is for high-priority issues that need timely resolution but are not as urgent as Sev-A. These issues may affect a significant number of users or critical functions but do not cause immediate disruption.
+
+- Click, "Add New SLA Plan" to navigate to the next step one last time.
+
+<img src="https://github.com/user-attachments/assets/2b2c8e42-aa07-4160-aaa4-d9be7aba0ce7" height="700" width="700" alt="Sev-C"/>
+
+- Finally, we are going to add Sev-C.
+- Give Sev-C a grace period of 8 hours
+- And a schedule of normal business hours.
+- Click, "Add Plan".
+
+Sev-C will be designated for lower-priority issues that do not significantly impact business operations or user experience and their resoultion times will be limited to normal business hours.
 
 <img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
 
