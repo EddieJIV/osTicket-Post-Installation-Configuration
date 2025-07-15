@@ -206,9 +206,47 @@ Sev-B is for high-priority issues that need timely resolution but are not as urg
 
 Sev-C will be designated for lower-priority issues that do not significantly impact business operations or user experience and their resoultion times will be limited to normal business hours.
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
+## 7. Help Topic Configuration
+*To create and manage predefined topics that categorize support tickets based on common issues or inquiries.*
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
+<img src="https://github.com/user-attachments/assets/8c2312f8-5c63-4aba-b9b3-53ffb5c02889" height="700" width="700" alt="Help Topic Home Page"/>
+
+- Finally, we are going to set up help topics for when users create tickets.
+- In order to do so, navigate over to "Help Tpoics" still under the manage tab.
+
+We are going to create 5 new Help Tpoics for our "users" to help organize support requests and attempt to facilitate more efficient communication between users and support agents.
+
+- Click, "Add New Help Topic" to begin.
+
+<img src="https://github.com/user-attachments/assets/93e03b47-f50b-442d-a193-132e5bd9f83e" height="700" width="700" alt="HT 1"/>
+
+- For our first Help Topic, we are going to name it, "Business Critical Outage".
+- With a parent topic of, "Report a Problem".
+- Following this we can simply click "Add Topic" and return to the Help Topics page.
+
+<img src="https://github.com/user-attachments/assets/0753e766-885b-4c35-a1c2-b2bc211a36cf" height="700" width="700" alt="HT 2"/>
+
+- For our second Help Topic, we are going to name it, "Personal Computer Issues".
+- With a parent topic of, "Report a Problem".
+- Following this we can simply click "Add Topic" and return to the Help Topics page.
+
+<img src="https://github.com/user-attachments/assets/416af425-91ad-417a-872a-9679e1b5bfb3" height="700" width="700" alt="HT 3"/>
+
+- For our third Help Topic, we are going to name it, "Equipment Request".
+- With a parent topic of, "General Inquiry".
+- Following this we can simply click "Add Topic" and return to the Help Topics page.
+
+<img src="https://github.com/user-attachments/assets/ee36dedf-19ce-4a1b-8d5b-d374da381923" height="700" width="700" alt="HT 4"/>
+
+- For our fourth Help Topic, we are going to add every end-users favortie request, the infamous, "Password Reset".
+- With a parent topic of, "Report a Problem/ Access Issue".
+- Following this we can simply click "Add Topic" and return to the Help Topics page.
+
+<img src="https://github.com/user-attachments/assets/dec69e57-81c3-4699-b47f-e2f414836d6a" height="700" width="700" alt="HT 5"/>
+
+- For our fifth and final Help Topic, we are going to name it, "Other".
+- With a parent topic of, "General Inquiry".
+- Following this we can simply click "Add Topic" and return to the Help Topics page.
 
 <img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
 
