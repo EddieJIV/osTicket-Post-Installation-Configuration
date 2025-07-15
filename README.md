@@ -1,6 +1,6 @@
 # osTicket-Post-Installation-Configuration
 
-*This lab will outline the post-install configuration of the open source help desk ticketing system osTicket prior to working mock-tickets in the next lab*
+*This lab will outline the post-install configuration of the open source help desk ticketing system osTicket prior to working mock-tickets in the next lab.*
 
 ## Enviornments & Technologies Used:
 
