@@ -246,31 +246,13 @@ We are going to create 5 new Help Tpoics for our "users" to help organize suppor
 
 - For our fifth and final Help Topic, we are going to name it, "Other".
 - With a parent topic of, "General Inquiry".
-- Following this we can simply click "Add Topic" and return to the Help Topics page.
+- Following this we can simply click "Add Topic".
+  
+---
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
+This effectively concludes my osTicket Post-Installation-Configuration lab! 
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="700" width="700" alt="Placeholder Image"/>
-
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="600" width="450" alt="Placeholder Image"/>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="600" width="450" alt="Placeholder Image"/>
-</p>
-
-
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="600" width="450" alt="Placeholder Image"/>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="600" width="450" alt="Placeholder Image"/>
-</p>
-
+I hope you'll join me in my third and final lab in this osTicket lab series wherein we will finally work on some common help desk tickets within osTicket.
 
 
 
