@@ -149,9 +149,9 @@ These distinctions help ensure that the system is both well-managed and responsi
   - Click "Set".
 - Before clicking create we are going to move to the Access tab.
 
-<img src="https://github.com/user-attachments/assets/e34e3da2-c790-472d-973a-582da4de6722" height="700" width="700" alt="Placeholder Image"/>
+<img width="700" height="700" alt="Johns Access" src="https://github.com/user-attachments/assets/4a063256-c368-4947-867e-a53337ea2a5f" />
 
-- For the sake of this lab we are going to make him a part of the Support Department and set his role as "View Only"
+- For the sake of this lab we are going to make him a part of the Support Department and give him "All Access"
 - Leave Permission and Teams alone, and click "Create".
 
 <img src="https://github.com/user-attachments/assets/bb083868-a7e6-42be-96b7-152481d38787" height="700" width="700" alt="Add User"/>
