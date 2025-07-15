@@ -80,6 +80,12 @@ These distinctions help ensure that the system is both well-managed and responsi
 - Since we havent set up any SLA's or created agents yet, we are simply going to make a new department called "SysAdmins" and make it a Top-Level Department.
 - Once you see that the parent is Top-Level Department, and the name is SysAdmins, you can simply click create.
 
+<img width="700" height="700" alt="Housekeeping" src="https://github.com/user-attachments/assets/0e60c5e4-763b-4b78-9dca-122c57d570fd" />
+
+- We additionally need to delete the preset maintenance department. We will use and create our own to work in for the sake of this lab and deleteing this will allow us to do so without any hitches.
+  - To delete, check the box next to maintenance, click on the button labeled "More", then delete.
+
+
 ## 4. Team Configuration
 *To group agents into collaborative units for more efficient ticket management.*
 
