@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
 # osTicket-Post-Installation-Configuration
 
 *This lab will outline the post-install configuration of the open source help desk ticketing system osTicket prior to working mock-tickets in the next lab.*
