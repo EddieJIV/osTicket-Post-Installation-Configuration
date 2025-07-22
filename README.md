@@ -260,9 +260,11 @@ We are going to create 5 new Help Tpoics for our "users" to help organize suppor
   
 ---
 
-This effectively concludes my osTicket Post-Installation-Configuration lab! 
+This effectively concludes my osTicket Post-Installation-Configuration lab! We've successfully completed the post-installation configuration of the osTicket help desk ticketing system!!
 
-I hope you'll join me in my third and final lab in this osTicket lab series wherein we will finally work on some common help desk tickets within osTicket.
+This involved setting up various components essential for effective ticket management, including differentiating between the Admin and Agent panels, configuring roles, departments, and teams, as well as establishing service level agreements (SLAs) and help topics.
+
+I hope this lab was able to help reinforce your understanding of ticketing systems like it has for me, and I hope you'll join me in my third and final lab in this osTicket lab series; wherein we'll finally get to work on some common help desk tickets within osTicket and gain even more valuable insights and practical experience!
 
 
 
